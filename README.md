@@ -32,7 +32,7 @@ An AI-powered recruitment platform developed to streamline the hiring process by
 
 Python • Flask • SQL • HTML • CSS • JavaScript • NLP • Machine Learning
 
-🔗 **Repository:** github.com/swathireddy114/ai-recruiter-chatbot
+🔗 **Repository:** https://github.com/swathireddy114/AI-Job-Recruiter-Assistant
 
 ---
 
@@ -60,7 +60,7 @@ A cloud-native collaborative whiteboard application developed to support real-ti
 
 AWS EKS • Docker • Kubernetes • Amazon ECR • Redis
 
-🔗 **Repository:** github.com/swathireddy114/cloud-whiteboard
+🔗 **Repository:** https://github.com/swathireddy114/cloud-native-whiteboard
 
 ---
 
@@ -88,12 +88,11 @@ A secure web-based voting system designed to provide authenticated users with a 
 
 Python • Flask • MySQL • HTML • CSS • JavaScript
 
-🔗 **Repository:** github.com/swathireddy114/secure-voting-system
+🔗 **Repository:** https://github.com/swathireddy114/secure-voting-web-application
 
 ---
 
 #  Connect With Me
 
- **LinkedIn:** https://www.linkedin.com/in/your-linkedin
-
+ **LinkedIn:** https://www.linkedin.com/in/swathi-v030
  **Email:** swathivreddy302002@gmail.com
