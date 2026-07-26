@@ -95,4 +95,5 @@ Python • Flask • MySQL • HTML • CSS • JavaScript
 #  Connect With Me
 
  **LinkedIn:** https://www.linkedin.com/in/swathi-v030
+ 
  **Email:** swathivreddy302002@gmail.com
