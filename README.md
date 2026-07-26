@@ -1,87 +1,99 @@
-# Swathi Venkatesh Reddy
+# Hi, I'm Swathi Venkatesh Reddy 
 
-MSc Advanced Computer Science | University of Leicester
+ MSc Advanced Computer Science | University of Leicester
 
-Software Engineer with a strong interest in Artificial Intelligence, Cloud Computing, Backend Development, and Software Engineering. Experienced in developing AI-powered applications, cloud-native solutions, and secure web applications using Python, Flask, SQL, AWS, Docker, and Kubernetes.
-
-Currently seeking Graduate Software Engineer and Cloud Engineering opportunities in the United Kingdom.
+Welcome to my GitHub portfolio. This profile showcases projects I developed during my Master's degree, highlighting my interest in Artificial Intelligence, Cloud Computing, Backend Development, and Software Engineering. Each project demonstrates my approach to solving real-world problems through scalable, secure, and intelligent software solutions.
 
 ---
 
-## About Me
+#  Featured Projects
 
-I recently completed my MSc in Advanced Computer Science from the University of Leicester.
+##  AI-Based Job Recruiter Assistant Chatbot
 
-Through my academic projects and internship experience, I have developed practical skills in software development, machine learning, RESTful APIs, cloud deployment, containerisation, and database design. I enjoy solving real-world problems through software and continuously learning new technologies.
+### Project Summary
 
----
+An AI-powered recruitment platform developed to streamline the hiring process by automating resume screening, semantic job matching, candidate ranking, and recruiter interactions using Natural Language Processing (NLP) and Machine Learning.
 
-## Technical Skills
+### Key Functionality
 
-**Programming Languages**
-- Python
-- Java
-- SQL
-- HTML
-- CSS
+- Extracts and analyses information from uploaded resumes.
+- Compares resumes with job descriptions using semantic similarity techniques.
+- Ranks candidates based on their relevance to job requirements.
+- Assists recruiters through an AI-powered chatbot interface.
+- Provides an intuitive web interface for candidate management.
 
-**Frameworks & Libraries**
-- Flask
-- Scikit-learn
+### Project Value
 
-**Cloud & DevOps**
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- CI/CD
+- Reduces the time required for manual resume screening.
+- Improves candidate shortlisting through intelligent matching.
+- Demonstrates the practical application of AI and NLP in recruitment.
 
-**Databases**
-- MySQL
-- SQLite
+**Technologies Used**
 
-**Tools**
-- Git
-- GitHub
-- Linux
-- Visual Studio Code
+Python • Flask • SQL • HTML • CSS • JavaScript • NLP • Machine Learning
+
+🔗 **Repository:** github.com/swathireddy114/ai-recruiter-chatbot
 
 ---
 
-## Projects
+##  Cloud-Native Distributed Whiteboard Application
 
-### AI-Based Job Recruiter Assistant Chatbot
-Developed an AI-powered recruitment platform for resume screening, candidate ranking, and intelligent job matching using Natural Language Processing and Machine Learning.
+### Project Summary
 
-**Technologies:** Python, Flask, SQL, HTML, CSS, JavaScript, Machine Learning
+A cloud-native collaborative whiteboard application developed to support real-time collaboration while demonstrating containerisation, orchestration, and scalable cloud deployment.
 
----
+### Key Functionality
 
-### Cloud-Native Distributed Whiteboard Application
-Containerised and deployed a collaborative whiteboard application using Docker, Kubernetes, AWS EKS, Amazon ECR, and Redis.
+- Enables multiple users to collaborate on a shared whiteboard.
+- Containerises the application using Docker.
+- Deploys the application on AWS Elastic Kubernetes Service (EKS).
+- Uses Kubernetes for orchestration and application scaling.
+- Integrates Redis to synchronise drawing data across connected users.
 
-**Technologies:** AWS, Docker, Kubernetes, Redis
+### Project Value
 
----
+- Demonstrates cloud-native application deployment.
+- Showcases modern DevOps and container orchestration practices.
+- Provides hands-on experience with scalable distributed application architecture.
 
-### Secure Voting Web Application
-Developed a secure voting application with user authentication, role-based access control, session management, and backend validation.
+**Technologies Used**
 
-**Technologies:** Python, Flask, MySQL
+AWS EKS • Docker • Kubernetes • Amazon ECR • Redis
 
----
-
-## Currently Learning
-
-- AWS Cloud Services
-- Cloud Architecture
-- DevOps Practices
+🔗 **Repository:** github.com/swathireddy114/cloud-whiteboard
 
 ---
 
-## Contact
+##  Secure Voting Web Application
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin
+### Project Summary
 
-Email: swathivreddy302002@gmail.com
+A secure web-based voting system designed to provide authenticated users with a reliable platform for online voting while ensuring data integrity and controlled system access.
+
+### Key Functionality
+
+- Implements secure user authentication and login.
+- Provides role-based access control for administrators and voters.
+- Manages user sessions securely.
+- Validates voting requests before storing results.
+- Integrates with MySQL for secure data management.
+
+### Project Value
+
+- Demonstrates secure web application development practices.
+- Ensures reliable and controlled online voting.
+- Highlights backend development using Flask and relational databases.
+
+**Technologies Used**
+
+Python • Flask • MySQL • HTML • CSS • JavaScript
+
+🔗 **Repository:** github.com/swathireddy114/secure-voting-system
+
+---
+
+#  Connect With Me
+
+ **LinkedIn:** https://www.linkedin.com/in/your-linkedin
+
+ **Email:** swathivreddy302002@gmail.com
