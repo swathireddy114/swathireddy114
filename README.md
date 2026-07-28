@@ -96,4 +96,4 @@ Python • Flask • MySQL • HTML • CSS • JavaScript
 
  **LinkedIn:** www.linkedin.com/in/swathivenkatesh
  
- **Email:** swathivreddy302002@gmail.com
+ **Email:** swathivreddy30@gmail.com
